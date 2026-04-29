@@ -1,0 +1,94 @@
+cff-version: 1.2.0
+title: "A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs"
+message: "If you use this software, please cite the manuscript and release DOI."
+type: software
+authors:
+  - family-names: Yang
+    given-names: Longzhen
+  - family-names: Liu
+    given-names: Yihang
+  - family-names: Zhang
+    given-names: Juzhao
+  - family-names: Wen
+    given-names: Ying
+  - family-names: Yang
+    given-names: Jiaxiong
+  - family-names: Yang
+    given-names: Ziteng
+  - family-names: Liu
+    given-names: Qi
+  - family-names: Lu
+    given-names: Lina
+  - family-names: Xu
+    given-names: Yi
+  - family-names: Shi
+    given-names: Danli
+    orcid: "https://orcid.org/0000-0001-6094-137X"
+    email: danli.shi@polyu.edu.hk
+  - family-names: He
+    given-names: Mingguang
+    orcid: "https://orcid.org/0000-0002-6912-2810"
+    email: mingguang.he@polyu.edu.hk
+  - family-names: Zou
+    given-names: Haidong
+  - family-names: Cheng
+    given-names: Ching Yu
+    email: chingyu.cheng@nus.edu.sg
+  - family-names: He
+    given-names: Jide
+    email: jide_he@fudan.edu.cn
+  - family-names: Lin
+    given-names: Senlin
+    email: woodylin@yeah.net
+  - family-names: He
+    given-names: Lianghua
+    email: helianghua@tongji.edu.cn
+repository-code: "https://github.com/<org>/SFM"
+license: Apache-2.0
+doi: 10.5281/zenodo.TBD
+version: v1.0.0-submission
+date-released: 2026-04-27
+preferred-citation:
+  type: article
+  title: "A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs"
+  authors:
+    - family-names: Yang
+      given-names: Longzhen
+    - family-names: Liu
+      given-names: Yihang
+    - family-names: Zhang
+      given-names: Juzhao
+    - family-names: Wen
+      given-names: Ying
+    - family-names: Yang
+      given-names: Jiaxiong
+    - family-names: Yang
+      given-names: Ziteng
+    - family-names: Liu
+      given-names: Qi
+    - family-names: Lu
+      given-names: Lina
+    - family-names: Xu
+      given-names: Yi
+    - family-names: Shi
+      given-names: Danli
+    - family-names: He
+      given-names: Mingguang
+    - family-names: Zou
+      given-names: Haidong
+    - family-names: Cheng
+      given-names: Ching Yu
+    - family-names: He
+      given-names: Jide
+    - family-names: Lin
+      given-names: Senlin
+    - family-names: He
+      given-names: Lianghua
+  journal: "Nature Medicine"
+  year: 2026
+  doi: 10.xxxx/xxxxxxxx
+notes: |
+  Co-first authors: Longzhen Yang, Yihang Liu, Juzhao Zhang, Ying Wen.
+  Co-corresponding authors: Ching Yu Cheng, Jide He, Senlin Lin, Lianghua He.
+  The journal DOI in `preferred-citation.doi` and the software DOI in
+  `doi` are placeholders; replace at acceptance.

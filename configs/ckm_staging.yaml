@@ -1,0 +1,37 @@
+paths:
+  data_root: ${SFM_DATA_ROOT}
+  checkpoint_dir: ${SFM_CKPT_DIR}
+  output_dir: ${SFM_OUTPUT_DIR}
+
+experiment:
+  task: ckm_staging
+  output_subdir: ckm_staging
+
+model:
+  encoder: swin_base_patch4_window7_224
+  head:
+    input_dim: 1024
+    hidden_dim: 512
+    num_classes: 4
+    dropout: 0.2
+  pretrained_checkpoint: ${SFM_CKPT_DIR}/sfm_pretrained_checkpoint.pth
+
+training:
+  data_fraction_percent: 100
+  num_steps: 12000
+  train_batch_size: 96
+  eval_batch_size: 512
+  image_size: 224
+  learning_rate: 5.0e-4
+  warmup_steps: 150
+  eval_every_steps: 1
+  seed: 10019
+  freeze_backbone: false
+
+optimizer:
+  name: sgd
+  momentum: 0.9
+  weight_decay: 5.0e-4
+
+loss:
+  name: cross_entropy

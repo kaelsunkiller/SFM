@@ -1,0 +1,39 @@
+paths:
+  data_root: ${SFM_DATA_ROOT}
+  checkpoint_dir: ${SFM_CKPT_DIR}
+  output_dir: ${SFM_OUTPUT_DIR}
+
+experiment:
+  task: ophthalmic_messidor2
+  output_subdir: ophthalmic_messidor2
+
+dataset:
+  name: MESSIDOR-2
+  relative_dir: MESSIDOR2
+  num_classes: 5
+
+model:
+  encoder: swin_base_patch4_window7_224
+  classifier: ophthalmic_transfer
+  pretrained_checkpoint: ${SFM_CKPT_DIR}/sfm_pretrained_checkpoint.pth
+
+training:
+  epochs: 50
+  batch_size_per_gpu: 16
+  accum_iter: 1
+  input_size: 224
+  drop_path_rate: 0.2
+  base_learning_rate: 5.0e-4
+  layer_decay: 0.65
+  min_learning_rate: 1.0e-6
+  warmup_epochs: 10
+  weight_decay: 0.05
+  label_smoothing: 0.1
+  seed: 147
+
+augmentation:
+  color_jitter: null
+  auto_augment: rand-m9-mstd0.5-inc1
+  random_erase_prob: 0.25
+  mixup: 0.0
+  cutmix: 0.0

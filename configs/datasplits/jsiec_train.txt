@@ -1,0 +1,531 @@
+JSIEC/train/0.0.Normal/1ffa9644-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9638-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9630-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9641-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9647-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa964b-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa965b-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9636-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9649-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa965a-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9652-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9642-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9628-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9659-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9627-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9632-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9654-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9640-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa9629-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.0.Normal/1ffa962f-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/train/0.1.Tessellated fundus/1ffa9582-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa957d-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa9597-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa9579-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa958f-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa9574-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.1.Tessellated fundus/1ffa959d-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/train/0.2.Large optic cup/1ffa94d0-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94bd-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94c5-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b0-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94cf-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94a9-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94cd-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa9498-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94a3-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b6-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa9496-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94bb-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94ca-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94a1-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b7-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94c4-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa949e-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94cc-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94c0-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa9493-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94ce-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b2-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94cb-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94bc-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b3-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b9-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94b8-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.2.Large optic cup/1ffa94ad-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/train/0.3.DR1/1ffa95bb-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95c7-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95b9-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95d1-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95c2-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95c9-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95ca-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95c3-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/0.3.DR1/1ffa95d0-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/train/1.0.DR2/1ffa93e8-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93ce-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93e9-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93c4-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93e6-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93b4-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93c6-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93dd-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93de-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d9-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93bc-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93c1-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93bd-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d2-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93b1-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93e7-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93da-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93e0-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d8-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93ba-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d7-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93cf-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93ca-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d4-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93df-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d0-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.0.DR2/1ffa93d1-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/train/1.1.DR3/1ffa930b-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92f7-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9312-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92e5-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa930c-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92fd-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92ec-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa930d-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9302-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9310-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92f6-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92fa-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9314-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9309-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9305-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92eb-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92e9-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92e4-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa9306-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92fb-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/1.1.DR3/1ffa92f5-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/train/10.0.Possible glaucoma/1ffa933d-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa9338-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa9337-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa933a-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa9339-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa9332-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.0.Possible glaucoma/1ffa9335-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/train/10.1.Optic atrophy/202efd24-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/10.1.Optic atrophy/202efd23-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/10.1.Optic atrophy/202efd29-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/10.1.Optic atrophy/202efd2c-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/10.1.Optic atrophy/202efd2d-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/10.1.Optic atrophy/202efd2b-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/train/11.Severe hypertensive retinopathy/101a775efe69f6fd9d6766d5ffd592c8d6569891.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/ceee348eb63613f6096d278ec0f16c11968d0a4d.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/62e5366cb967fa9d728bd150fe39708c798a0530.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/8e06c22851c4492532a1b583383e96be579b00ad.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/239904f2225e0df34f620d5f8724dd2b52b5ee19.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/3eed6f7d0e928c4f695757d2d154a82bf2e3b3d3.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/0bf8a9db042015e556be924ec11f3bba06f10cf2.jpg 8
+JSIEC/train/11.Severe hypertensive retinopathy/1004c8163b0f0e009c3653fa1536bbb330bf214b.jpg 8
+JSIEC/train/12.Disc swelling and elevation/1ffa95a4-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95a7-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95aa-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95ae-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95ad-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95ab-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/12.Disc swelling and elevation/1ffa95a6-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/train/13.Dragged Disc/1ffa948b-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/train/13.Dragged Disc/1ffa948c-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/train/13.Dragged Disc/1ffa948d-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/train/13.Dragged Disc/1ffa948e-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/train/13.Dragged Disc/1ffa948f-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/train/14.Congenital disc abnormality/1ffa9393-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/train/14.Congenital disc abnormality/1ffa938f-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/train/14.Congenital disc abnormality/1ffa9390-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/train/14.Congenital disc abnormality/1ffa938d-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/train/14.Congenital disc abnormality/1ffa9394-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa9560-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa956f-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa9567-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa956e-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa956b-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa955a-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa956a-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa9566-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa9565-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa955f-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa9564-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.0.Retinitis pigmentosa/1ffa955e-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/train/15.1.Bietti crystalline dystrophy/1ffa950f-8d87-11e8-9daf-6045cb817f5b..JPG 13
+JSIEC/train/15.1.Bietti crystalline dystrophy/1ffa9509-8d87-11e8-9daf-6045cb817f5b..JPG 13
+JSIEC/train/15.1.Bietti crystalline dystrophy/1ffa950b-8d87-11e8-9daf-6045cb817f5b..JPG 13
+JSIEC/train/15.1.Bietti crystalline dystrophy/1ffa950e-8d87-11e8-9daf-6045cb817f5b..JPG 13
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95e4-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95de-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95dc-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95e2-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95e7-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95e5-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/16.Peripheral retinal degeneration and break/1ffa95df-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/train/17.Myelinated nerve fiber/1ffa92c7-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/train/17.Myelinated nerve fiber/1ffa92c6-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/train/17.Myelinated nerve fiber/1ffa92ca-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/train/17.Myelinated nerve fiber/1ffa92c1-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/train/17.Myelinated nerve fiber/1ffa92c2-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/train/18.Vitreous particles/202efd43-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd45-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd4a-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd42-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd4c-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd4b-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/18.Vitreous particles/202efd40-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/train/19.Fundus neoplasm/1ffa95ee-8d87-11e8-9daf-6045cb817f5b..JPG 17
+JSIEC/train/19.Fundus neoplasm/1ffa95f0-8d87-11e8-9daf-6045cb817f5b..JPG 17
+JSIEC/train/19.Fundus neoplasm/1ffa95ec-8d87-11e8-9daf-6045cb817f5b..JPG 17
+JSIEC/train/19.Fundus neoplasm/1ffa95eb-8d87-11e8-9daf-6045cb817f5b..JPG 17
+JSIEC/train/2.0.BRVO/1ffa95fb-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95fe-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9600-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95f3-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9611-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9617-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95f9-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa961a-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9615-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95f2-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9604-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95fa-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9606-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9618-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95f6-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa961c-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa960a-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9610-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9601-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa95ff-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa960e-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9616-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa9609-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.0.BRVO/1ffa960c-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/train/2.1.CRVO/202efd1a-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd17-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd15-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd14-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd1d-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd0e-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd16-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd22-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd0f-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd1f-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd10-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/2.1.CRVO/202efd11-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/train/20.Massive hard exudates/1ffa9397-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa9396-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa939f-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa9399-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa939e-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa939c-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/20.Massive hard exudates/1ffa9398-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93fe-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93ee-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa9404-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f4-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f2-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa9400-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa9407-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f6-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa9401-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93ed-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93ff-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f0-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93fb-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f7-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa9402-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/21.Yellow-white spots-flecks/1ffa93f5-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/train/22.Cotton-wool spots/1ffa9414-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/train/22.Cotton-wool spots/1ffa9415-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/train/22.Cotton-wool spots/1ffa9417-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/train/22.Cotton-wool spots/1ffa941b-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/train/22.Cotton-wool spots/1ffa9419-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/train/23.Vessel tortuosity/prob100#99__23___8c1a79bbb808f3ba3b42ab352582ed49f87ef2bb.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob100#99__23___7bc1269673f54e9df717e4940013758482cc76f6.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob99#98__23___9fd229ee664c234854863e419ced9c8b87162e2a.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob100#99__23___74f7df73d8e36217bc3828236591778eaee2a6c1.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob100#99__23___6bf3356a65b11254058e59802aeb38b57a9f7210.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob90#98__23___9745fdc5833fb1e791af7b05d210a94a6e5d78d5.JPG 23
+JSIEC/train/23.Vessel tortuosity/prob100#99__23___6ff31e6f74a644621a85d0d8e48683459db7469e.JPG 23
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa9663-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa966a-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa9664-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa9660-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa965d-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa9661-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa965e-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/24.Chorioretinal atrophy-coloboma/1ffa9669-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/train/25.Preretinal hemorrhage/1ffa940e-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/train/25.Preretinal hemorrhage/1ffa940b-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/train/25.Preretinal hemorrhage/1ffa9413-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/train/25.Preretinal hemorrhage/1ffa940d-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/train/25.Preretinal hemorrhage/1ffa9411-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/train/26.Fibrosis/1ffa9621-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/train/26.Fibrosis/1ffa9623-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/train/26.Fibrosis/1ffa9622-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/train/26.Fibrosis/1ffa9620-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/train/26.Fibrosis/1ffa9625-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/train/27.Laser Spots/1ffa9387-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa937e-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa9381-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa9379-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa937f-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa937a-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa937b-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa9380-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa9382-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa938a-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/27.Laser Spots/1ffa9385-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/train/28.Silicon oil in eye/1ffa92b1-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92ba-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92bf-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92b9-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92b4-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92c0-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92b5-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92b3-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92af-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/28.Silicon oil in eye/1ffa92bd-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/train/29.0.Blur fundus without PDR/1ffa945d-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9474-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa946d-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9485-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9466-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa947e-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9458-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa945b-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa943c-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9431-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa947d-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9442-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa944f-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa945e-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9439-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9462-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9482-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa946f-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9425-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9447-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9449-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa942e-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9429-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa941f-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9461-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9420-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9479-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9421-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9452-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa945f-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9468-8d87-11e8-9daf-6045cb817f5b..TIF 29
+JSIEC/train/29.0.Blur fundus without PDR/1dcdf5863101f1652a7af5ab93ec729a.jpg 29
+JSIEC/train/29.0.Blur fundus without PDR/006d45bd44298e4ccbda36858067ba0c.jpg 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9488-8d87-11e8-9daf-6045cb817f5b..TIF 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9486-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/820c830112020f92404cf356772b956f.jpg 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9436-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9430-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa943a-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/4a063fcd03cf9a593c1cae893e2603c5.jpg 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9467-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9450-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9453-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9476-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9472-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9435-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa947a-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9423-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9434-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa944a-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9478-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa943f-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa947b-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9424-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa943b-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9433-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9448-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa942b-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9443-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa944c-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9428-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9437-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.0.Blur fundus without PDR/1ffa9471-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa968b-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9688-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa967e-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa967d-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efcff-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9687-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd09-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd07-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd01-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9680-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9690-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd0b-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9684-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9692-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd02-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd04-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9686-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa968a-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efcf9-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9691-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/1ffa9681-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd0a-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efd03-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/29.1.Blur fundus with suspected PDR/202efcfa-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/train/3.RAO/202efd38-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd37-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd3c-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd32-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd3d-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd31-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd34-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/3.RAO/202efd35-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/train/4.Rhegmatogenous RD/1ffa9366-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9370-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9367-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9361-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9344-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9376-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa936a-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa936f-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9356-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa934b-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9352-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa933e-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa934d-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9374-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9346-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa935a-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa935d-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9340-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa935c-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa936d-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa935f-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9341-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa934f-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa934a-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9358-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9351-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa9350-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/4.Rhegmatogenous RD/1ffa935b-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/train/5.0.CSCR/1ffa9679-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa9670-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa9671-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa9678-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa9674-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa9672-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.0.CSCR/1ffa966d-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/train/5.1.VKH disease/1ffa93a9-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93a7-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93ac-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93aa-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93ad-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93ab-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/5.1.VKH disease/1ffa93af-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/train/6.Maculopathy/1ffa951c-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9529-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9541-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa953b-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9526-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9532-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9511-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9520-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa953c-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9517-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9559-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa951f-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9522-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa952d-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9513-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa951e-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9525-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa953e-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa954e-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9539-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9538-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9547-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9555-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9548-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9558-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9545-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa954f-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa952a-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa952c-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9512-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9531-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa952f-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa953f-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9534-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9536-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9540-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9524-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9552-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9551-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/6.Maculopathy/1ffa9542-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/train/7.ERM/1ffa9318-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9329-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9319-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa932a-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa931a-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9324-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa931f-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9325-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9326-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa932f-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9327-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa932d-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa9320-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/7.ERM/1ffa931b-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/train/8.MH/1ffa92e1-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92dd-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92e0-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92d6-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92d9-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92dc-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92cc-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92d3-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92d2-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92da-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92d4-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/8.MH/1ffa92db-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/train/9.Pathological myopia/1ffa9507-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d8-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d6-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94df-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94fa-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d2-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94e3-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa9505-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94f7-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94e2-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94db-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94ea-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d7-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94e8-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94da-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94ed-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94dd-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa9502-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94ef-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94f1-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa9506-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94fe-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d4-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94d5-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94fc-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94f5-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa9500-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94eb-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/train/9.Pathological myopia/1ffa94e0-8d87-11e8-9daf-6045cb817f5b..JPG 38

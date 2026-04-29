@@ -1,0 +1,28 @@
+paths:
+  data_root:
+    env: SFM_DATA_ROOT
+    required: true
+    description: Root directory containing image files and label tables.
+  checkpoint_dir:
+    env: SFM_CKPT_DIR
+    required: false
+    default: checkpoints
+    description: Directory used to read and write model checkpoints.
+  output_dir:
+    env: SFM_OUTPUT_DIR
+    required: false
+    default: outputs
+    description: Directory for logs, predictions, and analysis outputs.
+  analysis_root:
+    env: SFM_ANALYSIS_ROOT
+    required: false
+    default: analysis
+    description: Directory for figure-level analysis artifacts.
+
+training:
+  epochs: int
+  batch_size_per_gpu: int
+  learning_rate: float
+  min_learning_rate: float
+  warmup_epochs: int
+  seed: int

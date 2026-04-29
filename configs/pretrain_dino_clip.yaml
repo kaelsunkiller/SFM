@@ -1,0 +1,55 @@
+paths:
+  data_root: ${SFM_DATA_ROOT}
+  checkpoint_dir: ${SFM_CKPT_DIR}
+  output_dir: ${SFM_OUTPUT_DIR}
+
+experiment:
+  task: pretraining
+  output_subdir: sfm_pretraining
+
+model:
+  encoder: swin_base_patch4_window7_224
+  projection_dim: 65536
+  moe:
+    # n_experts is the *per-process* (per-GPU) local expert count
+    # required by the Tutel routing layer. With the released
+    # world_size=2 distributed setup, the global expert pool is
+    # n_experts * world_size = 16, matching the 16-expert
+    # generalist-specialist spectrum reported in Methods §MoE
+    # architecture for image encoder.
+    n_experts: 8
+    top_k: 1
+    capacity_factor: 1.25
+    dropout: 0.1
+  text_encoder: emilyalsentzer/Bio_ClinicalBERT
+
+augmentation:
+  image_size: 224
+  global_crops_scale: [0.4, 1.0]
+  local_crops_scale: [0.05, 0.4]
+  local_crops_number: 4
+
+training:
+  epochs: 51
+  batch_size_per_gpu: 32
+  learning_rate: 5.0e-5
+  min_learning_rate: 1.0e-6
+  warmup_epochs: 5
+  seed: 0
+  save_checkpoint_every: 10
+  num_workers: 10
+
+optimizer:
+  name: adamw
+  weight_decay_start: 0.04
+  weight_decay_end: 0.4
+  clip_grad_norm: 3.0
+  use_fp16: true
+
+loss:
+  dino_student_temp: 0.1
+  dino_teacher_temp: 0.04
+  dino_warmup_teacher_temp: 0.04
+  dino_warmup_teacher_temp_epochs: 0
+  dino_center_momentum: 0.9
+  clip_weight: 0.15

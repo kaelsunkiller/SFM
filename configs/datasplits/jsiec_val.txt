@@ -1,0 +1,150 @@
+JSIEC/val/0.0.Normal/1ffa9643-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.0.Normal/1ffa962e-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.0.Normal/1ffa962d-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.0.Normal/1ffa963f-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.0.Normal/1ffa9631-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.0.Normal/1ffa9658-8d87-11e8-9daf-6045cb817f5b..JPG 0
+JSIEC/val/0.1.Tessellated fundus/1ffa957f-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/val/0.1.Tessellated fundus/1ffa9583-8d87-11e8-9daf-6045cb817f5b..JPG 1
+JSIEC/val/0.2.Large optic cup/1ffa94ba-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa94af-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa949d-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa94bf-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa94a0-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa94a6-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.2.Large optic cup/1ffa94a7-8d87-11e8-9daf-6045cb817f5b..JPG 2
+JSIEC/val/0.3.DR1/1ffa95c5-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/val/0.3.DR1/1ffa95c1-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/val/0.3.DR1/1ffa95d7-8d87-11e8-9daf-6045cb817f5b..JPG 3
+JSIEC/val/1.0.DR2/1ffa93b8-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93eb-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93be-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93dc-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93c3-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93c5-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.0.DR2/1ffa93b6-8d87-11e8-9daf-6045cb817f5b..JPG 4
+JSIEC/val/1.1.DR3/1ffa92f3-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/1.1.DR3/1ffa9301-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/1.1.DR3/1ffa92ff-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/1.1.DR3/1ffa92e3-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/1.1.DR3/1ffa92e8-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/1.1.DR3/1ffa92fe-8d87-11e8-9daf-6045cb817f5b..JPG 5
+JSIEC/val/10.0.Possible glaucoma/1ffa9331-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/val/10.0.Possible glaucoma/1ffa9334-8d87-11e8-9daf-6045cb817f5b..JPG 6
+JSIEC/val/10.1.Optic atrophy/202efd2e-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/val/10.1.Optic atrophy/202efd26-8d87-11e8-9daf-6045cb817f5b..JPG 7
+JSIEC/val/11.Severe hypertensive retinopathy/6a5ac0d63bb17f4154922af743a98646d89455c2.jpg 8
+JSIEC/val/11.Severe hypertensive retinopathy/eb83e7b2d06cebb82e926c0ef14bd5dd6fc747d2.jpg 8
+JSIEC/val/12.Disc swelling and elevation/1ffa95b0-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/val/12.Disc swelling and elevation/1ffa95a9-8d87-11e8-9daf-6045cb817f5b..JPG 9
+JSIEC/val/13.Dragged Disc/1ffa948a-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/val/13.Dragged Disc/1ffa9491-8d87-11e8-9daf-6045cb817f5b..JPG 10
+JSIEC/val/14.Congenital disc abnormality/1ffa938c-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/val/14.Congenital disc abnormality/1ffa938e-8d87-11e8-9daf-6045cb817f5b..JPG 11
+JSIEC/val/15.0.Retinitis pigmentosa/1ffa9569-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/val/15.0.Retinitis pigmentosa/1ffa956c-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/val/15.0.Retinitis pigmentosa/1ffa955c-8d87-11e8-9daf-6045cb817f5b..JPG 12
+JSIEC/val/15.1.Bietti crystalline dystrophy/1ffa9508-8d87-11e8-9daf-6045cb817f5b..JPG 13
+JSIEC/val/16.Peripheral retinal degeneration and break/1ffa95dd-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/val/16.Peripheral retinal degeneration and break/1ffa95db-8d87-11e8-9daf-6045cb817f5b..JPG 14
+JSIEC/val/17.Myelinated nerve fiber/1ffa92c4-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/val/17.Myelinated nerve fiber/1ffa92c5-8d87-11e8-9daf-6045cb817f5b..JPG 15
+JSIEC/val/18.Vitreous particles/202efd46-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/val/18.Vitreous particles/202efd44-8d87-11e8-9daf-6045cb817f5b..JPG 16
+JSIEC/val/19.Fundus neoplasm/1ffa95e9-8d87-11e8-9daf-6045cb817f5b..JPG 17
+JSIEC/val/2.0.BRVO/1ffa960d-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.0.BRVO/1ffa9612-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.0.BRVO/1ffa9603-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.0.BRVO/1ffa9613-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.0.BRVO/1ffa960f-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.0.BRVO/1ffa9608-8d87-11e8-9daf-6045cb817f5b..JPG 18
+JSIEC/val/2.1.CRVO/202efd20-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/val/2.1.CRVO/202efd19-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/val/2.1.CRVO/202efd21-8d87-11e8-9daf-6045cb817f5b..JPG 19
+JSIEC/val/20.Massive hard exudates/1ffa939d-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/val/20.Massive hard exudates/1ffa93a1-8d87-11e8-9daf-6045cb817f5b..JPG 20
+JSIEC/val/21.Yellow-white spots-flecks/1ffa93f3-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/val/21.Yellow-white spots-flecks/1ffa9403-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/val/21.Yellow-white spots-flecks/1ffa93fd-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/val/21.Yellow-white spots-flecks/1ffa93f1-8d87-11e8-9daf-6045cb817f5b..JPG 21
+JSIEC/val/22.Cotton-wool spots/1ffa941a-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/val/22.Cotton-wool spots/1ffa9416-8d87-11e8-9daf-6045cb817f5b..JPG 22
+JSIEC/val/23.Vessel tortuosity/prob99#99__23___3fbf49bfa5587fdfce5ff6578a3c9d5f8fd34802.JPG 23
+JSIEC/val/23.Vessel tortuosity/prob100#99__23___f30817ae240ab9da9299c0836a2d9a892554cede.JPG 23
+JSIEC/val/24.Chorioretinal atrophy-coloboma/1ffa9665-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/val/24.Chorioretinal atrophy-coloboma/1ffa9667-8d87-11e8-9daf-6045cb817f5b..JPG 24
+JSIEC/val/25.Preretinal hemorrhage/1ffa940f-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/val/25.Preretinal hemorrhage/1ffa9410-8d87-11e8-9daf-6045cb817f5b..JPG 25
+JSIEC/val/26.Fibrosis/1ffa961f-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/val/26.Fibrosis/1ffa961e-8d87-11e8-9daf-6045cb817f5b..JPG 26
+JSIEC/val/27.Laser Spots/1ffa9384-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/val/27.Laser Spots/1ffa9388-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/val/27.Laser Spots/1ffa937d-8d87-11e8-9daf-6045cb817f5b..JPG 27
+JSIEC/val/28.Silicon oil in eye/1ffa92bc-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/val/28.Silicon oil in eye/1ffa92bb-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/val/28.Silicon oil in eye/1ffa92b7-8d87-11e8-9daf-6045cb817f5b..JPG 28
+JSIEC/val/29.0.Blur fundus without PDR/1ffa945a-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa946a-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa943e-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9483-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/cdb07f7fa99c820e4928ef08180f62fa.jpg 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9460-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9454-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/2133fc16623f581db3fb85ae91430465.jpg 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9451-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa946e-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9422-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9445-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9463-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9456-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa942c-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.0.Blur fundus without PDR/1ffa9480-8d87-11e8-9daf-6045cb817f5b..JPG 29
+JSIEC/val/29.1.Blur fundus with suspected PDR/202efcfe-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/202efcfc-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/202efd08-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/1ffa9683-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/1ffa9695-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/1ffa968e-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/29.1.Blur fundus with suspected PDR/1ffa9693-8d87-11e8-9daf-6045cb817f5b..JPG 30
+JSIEC/val/3.RAO/202efd2f-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/val/3.RAO/202efd30-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/val/3.RAO/202efd3e-8d87-11e8-9daf-6045cb817f5b..JPG 31
+JSIEC/val/4.Rhegmatogenous RD/1ffa9349-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9362-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9365-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9363-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9364-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9375-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa9347-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/4.Rhegmatogenous RD/1ffa936e-8d87-11e8-9daf-6045cb817f5b..JPG 32
+JSIEC/val/5.0.CSCR/1ffa966c-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/val/5.0.CSCR/1ffa9673-8d87-11e8-9daf-6045cb817f5b..JPG 33
+JSIEC/val/5.1.VKH disease/1ffa93ae-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/val/5.1.VKH disease/1ffa93a3-8d87-11e8-9daf-6045cb817f5b..JPG 34
+JSIEC/val/6.Maculopathy/1ffa9544-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9528-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9546-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9549-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9527-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9537-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa951a-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9556-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa954d-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9519-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/6.Maculopathy/1ffa9523-8d87-11e8-9daf-6045cb817f5b..JPG 35
+JSIEC/val/7.ERM/1ffa9323-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/val/7.ERM/1ffa932b-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/val/7.ERM/1ffa932e-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/val/7.ERM/1ffa9321-8d87-11e8-9daf-6045cb817f5b..JPG 36
+JSIEC/val/8.MH/1ffa92d0-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/val/8.MH/1ffa92e2-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/val/8.MH/1ffa92de-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/val/8.MH/1ffa92ce-8d87-11e8-9daf-6045cb817f5b..JPG 37
+JSIEC/val/9.Pathological myopia/1ffa94fd-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa9504-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94de-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94f2-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94ff-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94ee-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94dc-8d87-11e8-9daf-6045cb817f5b..JPG 38
+JSIEC/val/9.Pathological myopia/1ffa94f3-8d87-11e8-9daf-6045cb817f5b..JPG 38
