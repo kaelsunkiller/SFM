@@ -78,10 +78,10 @@ authors:
     affiliation: "Tongji University, Shanghai, China"
     orcid: "https://orcid.org/0000-0002-5250-170X"
     email: helianghua@tongji.edu.cn
-repository-code: "https://github.com/<org>/SFM"
+repository-code: "https://github.com/kaelsunkiller/SFM"
 license: Apache-2.0
-doi: 10.5281/zenodo.TBD
-version: v1.0.0-submission
+doi: 10.5281/zenodo.19921317
+version: v1.0.1
 date-released: 2026-04-30
 preferred-citation:
   type: article
@@ -144,5 +144,7 @@ preferred-citation:
 notes: |
   Co-first authors: Longzhen Yang, Yihang Liu, Juzhao Zhang, Ying Wen.
   Co-corresponding authors: Ching Yu Cheng, Jide He, Senlin Lin, Lianghua He.
-  The journal DOI in `preferred-citation.doi` and the software DOI in
-  `doi` are placeholders; replace at acceptance.
+  Companion demonstration dataset (28 de-identified retinal photographs):
+  https://doi.org/10.5281/zenodo.19920678 (CC BY 4.0).
+  The journal DOI in `preferred-citation.doi` is a placeholder and will be
+  updated to the Nature Medicine DOI at acceptance.

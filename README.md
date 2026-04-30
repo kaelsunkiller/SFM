@@ -131,3 +131,47 @@ Funding and institutional support follow the manuscript Acknowledgments section.
 For data, code and model questions: `yanglongzhen@tongji.edu.cn` and `helianghua@tongji.edu.cn.`.
 
 ## Citation
+
+If you use this code or model, please cite both the manuscript and the software release:
+
+```bibtex
+@article{yang2026sfm_ckm,
+  title   = {A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs},
+  author  = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
+             and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
+             and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
+             and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
+             and He, Lianghua},
+  journal = {Nature Medicine},
+  year    = {2026},
+  note    = {Manuscript under review. Journal DOI to be added upon acceptance.}
+}
+
+@software{yang2026sfm_software,
+  title     = {SFM: Screening Foundation Model for Cardio-Kidney-Metabolic Health (v1.0.1)},
+  author    = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
+               and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
+               and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
+               and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
+               and He, Lianghua},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {v1.0.1},
+  doi       = {10.5281/zenodo.19921317},
+  url       = {https://github.com/kaelsunkiller/SFM}
+}
+
+@dataset{yang2026sfm_demo,
+  title     = {SFM Minimal Demonstration Dataset for Cardio-Kidney-Metabolic Screening},
+  author    = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
+               and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
+               and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
+               and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
+               and He, Lianghua},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {1.0.0},
+  doi       = {10.5281/zenodo.19920678},
+  note      = {28 de-identified retinal photographs, CC BY 4.0}
+}
+```
