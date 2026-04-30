@@ -1,6 +1,6 @@
 # Screening Foundation Model (SFM) for Cardio-Kidney-Metabolic Health
 
-SFM is a retinal foundation-model pipeline for joint cardio-kidney-metabolic (CKM) screening from routine fundus photographs. The submission package includes the core model components (SwinViT encoder, sparse MoE routing, optional image-text alignment), downstream task heads, source-data preparation utilities, and the decision-analytic cost-effectiveness model used in the manuscript.
+SFM is a retinal foundation-model pipeline for joint cardio-kidney-metabolic (CKM) screening from routine fundus photographs. The submission package includes the core model components, downstream task heads, source-data preparation utilities, and the decision-analytic cost-effectiveness model used in the manuscript.
 
 ## Installation
 
