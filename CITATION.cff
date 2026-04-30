@@ -29,6 +29,10 @@ authors:
     given-names: Mingguang
     orcid: "https://orcid.org/0000-0002-6912-2810"
     email: mingguang.he@polyu.edu.hk
+  - family-names: Li
+    given-names: Chunhua
+    orcid: "https://orcid.org/0009-0006-3368-9520"
+    email: jnwjjyz@163.com
   - family-names: Zou
     given-names: Haidong
   - family-names: Cheng
@@ -74,6 +78,8 @@ preferred-citation:
       given-names: Danli
     - family-names: He
       given-names: Mingguang
+    - family-names: Li
+      given-names: Chunhua
     - family-names: Zou
       given-names: Haidong
     - family-names: Cheng

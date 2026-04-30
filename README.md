@@ -9,8 +9,9 @@ SFM is a retinal foundation-model pipeline for joint cardio-kidney-metabolic (CK
   title   = {A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs},
   author  = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
              and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
-             and Xu, Yi and Shi, Danli and He, Mingguang and Zou, Haidong
-             and Cheng, Ching Yu and He, Jide and Lin, Senlin and He, Lianghua},
+             and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
+             and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
+             and He, Lianghua},
   journal = {},
   year    = {2026},
   doi     = {10.xxxx/xxxxxxxx},
@@ -144,4 +145,4 @@ Funding and institutional support follow the manuscript Acknowledgments section.
 
 ## Contact
 
-For data, code and model questions: `yanglongzhen@tongji.edu.cn` and `woodylin@yeah.net`.
+For data, code and model questions: `yanglongzhen@tongji.edu.cn` and `helianghua@tongji.edu.cn.`.
