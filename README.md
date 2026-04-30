@@ -2,23 +2,6 @@
 
 SFM is a retinal foundation-model pipeline for joint cardio-kidney-metabolic (CKM) screening from routine fundus photographs. The submission package includes the core model components (SwinViT encoder, sparse MoE routing, optional image-text alignment), downstream task heads, source-data preparation utilities, and the decision-analytic cost-effectiveness model used in the manuscript.
 
-## Citation
-
-```bibtex
-@article{yang2026sfm_ckm,
-  title   = {A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs},
-  author  = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
-             and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
-             and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
-             and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
-             and He, Lianghua},
-  journal = {},
-  year    = {2026},
-  doi     = {10.xxxx/xxxxxxxx},
-  note    = {Software release DOI to be minted at acceptance: 10.5281/zenodo.TBD}
-}
-```
-
 ## Installation
 
 ```bash
@@ -146,3 +129,5 @@ Funding and institutional support follow the manuscript Acknowledgments section.
 ## Contact
 
 For data, code and model questions: `yanglongzhen@tongji.edu.cn` and `helianghua@tongji.edu.cn.`.
+
+## Citation
