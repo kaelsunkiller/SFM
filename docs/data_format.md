@@ -70,6 +70,5 @@ biomarker/img_0001.jpg,4,2,3
 ## Environment Variables
 
 - `SFM_DATA_ROOT`: required image data root
-- `SFM_ANALYSIS_ROOT`: optional manuscript analysis-artifact root used by `analysis/source_data/*` builders (see docs/reproducibility.md)
 - `SFM_CKPT_DIR`: optional checkpoint path (default: `checkpoints`)
 - `SFM_OUTPUT_DIR`: optional output path (default: `outputs`)

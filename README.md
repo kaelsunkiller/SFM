@@ -110,9 +110,9 @@ The CKM cohorts used in the manuscript are not redistributed with this repositor
 4. External validation cohorts were used under separate institutional agreements and require independent application.
 5. A public Zenodo demonstration set of **de-identified retinal photographs** is provided for minimum validation; it is not a substitute for the full cohorts.
 
-## Reproducing Figures
+## Source Data
 
-See [docs/reproducibility.md](docs/reproducibility.md). Each figure subsection provides a command, expected output artifact, and expected sanity-check value.
+The numerical values backing every published figure are distributed as Source Data spreadsheets alongside the article on the journal website. They are also archived at the Zenodo deposit linked from the article's Data Availability statement.
 
 ## Model Weights
 
