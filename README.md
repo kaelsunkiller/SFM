@@ -142,7 +142,7 @@ If you use this code or model, please cite both the manuscript and the software 
              and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
              and Zou, Haidong and Cheng, Ching Yu and He, Jide and Lin, Senlin
              and He, Lianghua},
-  journal = {Nature Medicine},
+  journal = {Nature Biomedical Engineering},
   year    = {2026},
   note    = {Manuscript under review. Journal DOI to be added upon acceptance.}
 }

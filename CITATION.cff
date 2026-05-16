@@ -138,7 +138,7 @@ preferred-citation:
     - family-names: He
       given-names: Lianghua
       orcid: "https://orcid.org/0000-0002-5250-170X"
-  journal: "Nature Medicine"
+  journal: "Nature Biomedical Engineering"
   year: 2026
   doi: 10.xxxx/xxxxxxxx
 notes: |
@@ -147,4 +147,4 @@ notes: |
   Companion demonstration dataset (28 de-identified retinal photographs):
   https://doi.org/10.5281/zenodo.19920678 (CC BY 4.0).
   The journal DOI in `preferred-citation.doi` is a placeholder and will be
-  updated to the Nature Medicine DOI at acceptance.
+  updated to the Nature Biomedical Engineering DOI at acceptance.
