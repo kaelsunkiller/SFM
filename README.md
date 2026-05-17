@@ -148,7 +148,7 @@ If you use this code or model, please cite both the manuscript and the software 
 }
 
 @software{yang2026sfm_software,
-  title     = {SFM: Screening Foundation Model for Cardio-Kidney-Metabolic Health (v1.0.1)},
+  title     = {SFM: Screening Foundation Model for Cardio-Kidney-Metabolic Health (v1.0.2)},
   author    = {Yang, Longzhen and Liu, Yihang and Zhang, Juzhao and Wen, Ying
                and Yang, Jiaxiong and Yang, Ziteng and Liu, Qi and Lu, Lina
                and Xu, Yi and Shi, Danli and He, Mingguang and Li, Chunhua
@@ -156,7 +156,7 @@ If you use this code or model, please cite both the manuscript and the software 
                and He, Lianghua},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {v1.0.1},
+  version   = {v1.0.2},
   doi       = {10.5281/zenodo.19921317},
   url       = {https://github.com/kaelsunkiller/SFM}
 }

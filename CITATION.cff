@@ -81,8 +81,8 @@ authors:
 repository-code: "https://github.com/kaelsunkiller/SFM"
 license: Apache-2.0
 doi: 10.5281/zenodo.19921317
-version: v1.0.1
-date-released: 2026-04-30
+version: v1.0.2
+date-released: 2026-05-16
 preferred-citation:
   type: article
   title: "A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs"
