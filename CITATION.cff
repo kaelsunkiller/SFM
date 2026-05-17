@@ -83,68 +83,8 @@ license: Apache-2.0
 doi: 10.5281/zenodo.19921317
 version: v1.0.2
 date-released: 2026-05-16
-preferred-citation:
-  type: article
-  title: "A Screening Foundation Model for Cardio-Kidney-Metabolic Health using Routine Retinal Photographs"
-  authors:
-    - family-names: Yang
-      given-names: Longzhen
-      orcid: "https://orcid.org/0000-0002-5791-145X"
-    - family-names: Liu
-      given-names: Yihang
-      orcid: "https://orcid.org/0000-0003-4257-2528"
-    - family-names: Zhang
-      given-names: Juzhao
-      orcid: "https://orcid.org/0000-0002-8420-8276"
-    - family-names: Wen
-      given-names: Ying
-      orcid: "https://orcid.org/0000-0002-6974-5110"
-    - family-names: Yang
-      given-names: Jiaxiong
-      orcid: "https://orcid.org/0000-0002-7499-2474"
-    - family-names: Yang
-      given-names: Ziteng
-      orcid: "https://orcid.org/0009-0009-4289-8123"
-    - family-names: Liu
-      given-names: Qi
-      orcid: "https://orcid.org/0000-0003-2578-1221"
-    - family-names: Lu
-      given-names: Lina
-      orcid: "https://orcid.org/0000-0002-9425-6597"
-    - family-names: Xu
-      given-names: Yi
-      orcid: "https://orcid.org/0000-0003-1584-767X"
-    - family-names: Shi
-      given-names: Danli
-      orcid: "https://orcid.org/0000-0001-6094-137X"
-    - family-names: He
-      given-names: Mingguang
-      orcid: "https://orcid.org/0000-0002-6912-2810"
-    - family-names: Li
-      given-names: Chunhua
-      orcid: "https://orcid.org/0009-0006-3368-9520"
-    - family-names: Zou
-      given-names: Haidong
-      orcid: "https://orcid.org/0000-0002-6831-7560"
-    - family-names: Cheng
-      given-names: Ching Yu
-      orcid: "https://orcid.org/0000-0003-0655-885X"
-    - family-names: He
-      given-names: Jide
-      orcid: "https://orcid.org/0000-0002-8891-1583"
-    - family-names: Lin
-      given-names: Senlin
-      orcid: "https://orcid.org/0000-0002-0166-1308"
-    - family-names: He
-      given-names: Lianghua
-      orcid: "https://orcid.org/0000-0002-5250-170X"
-  journal: "Nature Biomedical Engineering"
-  year: 2026
-  doi: 10.xxxx/xxxxxxxx
 notes: |
   Co-first authors: Longzhen Yang, Yihang Liu, Juzhao Zhang, Ying Wen.
   Co-corresponding authors: Ching Yu Cheng, Jide He, Senlin Lin, Lianghua He.
   Companion demonstration dataset (28 de-identified retinal photographs):
   https://doi.org/10.5281/zenodo.19920678 (CC BY 4.0).
-  The journal DOI in `preferred-citation.doi` is a placeholder and will be
-  updated to the Nature Biomedical Engineering DOI at acceptance.
